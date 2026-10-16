@@ -1,4 +1,3 @@
-<img width="760" height="681" alt="facturas-antes" src="https://github.com/user-attachments/assets/ad5e0e99-68b1-4726-843d-e515fb670e32" />
 ## Hola, soy Leidy Lozada 🕵️‍♀️
 
 **RPA Developer · Ingeniera de Sistemas · más de 6 años automatizando procesos de negocio.**
