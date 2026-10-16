@@ -2,7 +2,7 @@
 
 **RPA Developer · Ingeniera de Sistemas · más de 6 años automatizando procesos de negocio.**
 
-Convierto tareas repetitivas en procesos automáticos y confiables, y uso los datos que generan para medir cómo funcionan. Trabajo con clientes del sector **asegurador, financiero y administrativo**: relevo sus procesos, propongo mejoras y las llevo a producción.
+Convierto tareas repetitivas en procesos automáticos y confiables, y uso los datos que generan para medir cómo funcionan. Trabajé con clientes del sector **asegurador, financiero y administrativo**: relevé sus procesos, propuse mejoras y las llevé a producción.
 
 ```mermaid
 flowchart TB
