@@ -5,16 +5,15 @@
 Convierto tareas repetitivas en procesos automáticos y confiables, y uso los datos que generan para medir cómo funcionan. Trabajo con clientes del sector **asegurador, financiero y administrativo**: relevo sus procesos, propongo mejoras y las llevo a producción.
 
 ```mermaid
-flowchart LR
+flowchart TB
     subgraph exp [Mi experiencia]
         direction LR
         A[Relevar] --> B[Automatizar] --> C[Integrar datos] --> D[Validar] --> E[Reportar<br/>Power BI]
     end
     subgraph prof [Profundizando]
-        F[Medir y mejorar<br/>con datos]
+        F[Medir y mejorar<br/>con datos ↻]
     end
-    E --> F
-    F -.->|nuevo ciclo| A
+    exp --> prof
     classDef experiencia fill:#E1F5EE,stroke:#0F6E56,color:#085041
     classDef aprendiendo fill:#FAEEDA,stroke:#BA7517,color:#633806
     class A,B,C,D,E experiencia
