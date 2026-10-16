@@ -1,3 +1,4 @@
+<img width="760" height="681" alt="facturas-antes" src="https://github.com/user-attachments/assets/ad5e0e99-68b1-4726-843d-e515fb670e32" />
 ## Hola, soy Leidy Lozada 🕵️‍♀️
 
 **RPA Developer · Ingeniera de Sistemas · más de 6 años automatizando procesos de negocio.**
@@ -58,10 +59,12 @@ Une mis dos mundos: la integración y la validación de datos que hago en automa
 #### 🧾 [De facturas en PDF a Excel](https://ladydlozada.github.io/leidyrpa/)
 Automatización que lee facturas de servicios en PDF, extrae sus datos y arma un Excel listo para usar: un ejemplo del tipo de proceso ETL que automatizo.
 
-<!-- ACÁ VA LA IMAGEN "ANTES / DESPUÉS": arrastrala a este lugar en el editor de GitHub y borrá este comentario -->
-
+| Antes: facturas sin procesar | Después: Excel generado |
+|---|---|
+| <img width="380" alt="Antes: carpeta con facturas en PDF sin procesar" src="https://github.com/user-attachments/assets/85348078-09e3-4788-8f4e-ac21ac74589a" /> | <img width="380" alt="Después: 11 facturas procesadas y Excel generado" src="https://github.com/user-attachments/assets/6f5c2d0a-a593-4042-a881-918a474001b5" /> |
 
 ---
+
 
 ### Herramientas
 
