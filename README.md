@@ -1,4 +1,4 @@
-## Hola, soy Leidy Lozada 👋
+## Hola, soy Leidy Lozada 🕵️‍♀️
 
 **RPA Developer · Ingeniera de Sistemas · más de 6 años automatizando procesos de negocio.**
 
