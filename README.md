@@ -6,13 +6,22 @@ Convierto tareas repetitivas en procesos automáticos y confiables, y uso los da
 
 ```mermaid
 flowchart LR
-    A[Relevar] --> B[Automatizar] --> C[Integrar datos] --> D[Validar] --> E[Reportar<br/>Power BI] --> F[Analizar<br/>y mejorar]
+    subgraph exp [Mi experiencia]
+        direction LR
+        A[Relevar] --> B[Automatizar] --> C[Integrar datos] --> D[Validar] --> E[Reportar<br/>Power BI]
+    end
+    subgraph prof [Profundizando]
+        F[Medir y mejorar<br/>con datos]
+    end
+    E --> F
+    F -.->|nuevo ciclo| A
     classDef experiencia fill:#E1F5EE,stroke:#0F6E56,color:#085041
-    classDef aprendiendo fill:#FAEEDA,stroke:#BA7517,color:#633806,stroke-dasharray: 5 5
+    classDef aprendiendo fill:#FAEEDA,stroke:#BA7517,color:#633806
     class A,B,C,D,E experiencia
     class F aprendiendo
+    style exp fill:#F6FBF9,stroke:#0F6E56
+    style prof fill:#FDF8EF,stroke:#BA7517,stroke-dasharray: 5 5
 ```
-🟩 mi experiencia · 🟨 lo que estoy profundizando
 
 - 🤖 **Automatización:** Python y UiPath. Integro datos de APIs REST, sistemas web, ERP, PDFs y Excel.
 - 🧮 **Datos:** consultas en SQL Server, procesos ETL, validación de la calidad de la información y dashboards en Power BI.
