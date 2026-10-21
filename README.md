@@ -96,4 +96,4 @@ Panel de KPIs de sueldos y personal con datos ficticios, hecho primero con fórm
 
 ### Contacto
 
-[LinkedIn](https://www.linkedin.com/in/COMPLETAR) · [Mis servicios de automatización](https://ladydlozada.github.io/leidyrpa/)
+[LinkedIn](https://www.linkedin.com/in/leidy-lozada-b54300181) · [Mis servicios de automatización](https://ladydlozada.github.io/leidyrpa/)
