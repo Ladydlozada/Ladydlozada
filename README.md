@@ -62,6 +62,16 @@ Automatización que lee facturas de servicios en PDF, extrae sus datos y arma un
 |---|---|
 | <img width="380" alt="Antes: carpeta con facturas en PDF sin procesar" src="https://github.com/user-attachments/assets/85348078-09e3-4788-8f4e-ac21ac74589a" /> | <img width="380" alt="Después: 11 facturas procesadas y Excel generado" src="https://github.com/user-attachments/assets/6f5c2d0a-a593-4042-a881-918a474001b5" /> |
 
+#### 📊 [Dashboard de nómina y RRHH en Excel y Power BI](https://github.com/Ladydlozada/dashboard-rrhh-nomina)
+
+Panel de KPIs de sueldos y personal con datos ficticios, hecho primero con fórmulas de Excel y después rehecho en Power BI con el mismo modelo de datos.
+
+- 6 KPIs con variación contra el mes anterior, 5 gráficos y filtros por departamento, estado, puesto y año de ingreso.
+- Medidas DAX equivalentes a las fórmulas del Excel, comprobadas contra un cálculo independiente en Python.
+- Errores reales documentados: configuración regional, medidas vacías y ejes del gráfico.
+
+[![Dashboard en Power BI](https://raw.githubusercontent.com/Ladydlozada/dashboard-rrhh-nomina/main/docs/capturas/powerbi-dashboard.png)](https://github.com/Ladydlozada/dashboard-rrhh-nomina)
+
 ---
 
 
